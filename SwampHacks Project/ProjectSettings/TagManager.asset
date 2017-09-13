@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - UI
+  - Bullet
+  - GameOver
+  - PenguinTag
+  - 2
+  - 3
+  - Bullet2
+  - Bullet3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - UI
+  - GameOverLayer
+  - WHHYY
+  - Whyy2
+  - Why3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3028177013
+    locked: 0
+  - name: Player
+    uniqueID: 3704758663
+    locked: 0
+  - name: Foreground
+    uniqueID: 124252857
+    locked: 0

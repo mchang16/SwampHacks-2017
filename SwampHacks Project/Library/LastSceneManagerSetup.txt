@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Winning Screen.unity
+  isLoaded: 1
+  isActive: 1
